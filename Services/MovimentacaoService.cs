@@ -1,7 +1,7 @@
 using CompraVendas.Data;
 using CompraVendas.DTOs;
 using CompraVendas.Entities;
-using CompraVendas.Infra;
+using CompraVendas.Exceptions;
 using Microsoft.EntityFrameworkCore;
 
 namespace CompraVendas.Services;

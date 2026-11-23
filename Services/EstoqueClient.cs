@@ -1,5 +1,6 @@
 using System.Net;
-using CompraVendas.Infra;
+using CompraVendas.Data;
+using CompraVendas.Exceptions;
 
 namespace CompraVendas.Services;
 
